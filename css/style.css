@@ -114,11 +114,10 @@ a.boxclose{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	text-align: center;
-	min-height:750px;
 }
 .banner-info{
 width:65%;
-margin: 141px auto 0 auto;
+margin: 30px auto 60px auto;
 }
 .banner-right h1{
 font-size:34px;
